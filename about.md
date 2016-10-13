@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> If you have received, you have to take out.
-
-### Contact me
-
 I strictly *suck* at everything I do ... 
 
+### Contact me
 [oliver.fang@gmail.com](mailto:oliver.fang@gmail.com)
