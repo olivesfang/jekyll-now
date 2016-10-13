@@ -13,7 +13,7 @@ This probably looks like *crap*, but I'll learn everything later.
 
 ## Extracurricular Experiences
 * **CEO of [Morningers]**, a week-long Pledge of Early Mornings Jogging with an exciting raffle.
-  * In my position for 2 years, we teach a handful of new recruits to organize a school-wide event. 
+  * In position 2 years, we teach a handful of new recruits to organize a school-wide event. 
   * Experience in executing self-taught skills, such as Visual Design, Branding and Marketing. 
 * **Marketing Team Member of [2016 SITCON]**, a Conference held by Students to discuss IT. 
 * **TA for Class of 2016 NTU x Presentation**, a Class focused on Presentational skills conducted by Prof. Yeh.
