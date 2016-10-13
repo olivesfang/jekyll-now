@@ -1,10 +1,27 @@
 ---
 layout: post
-title: You're up and running!
+title: I'm finally trying!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This probably looks like *crap*, but I'll learn everything later. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Education
+* **National Taiwan University (NTU)**, Taipei, Taiwan  
+  B.S., Information Management *Sep. 2013 to Present*
+  * Overall GPA: 3.50 / 4.30
+  * Still struggling for life
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+## Extracurricular Experiences
+* **CEO of [Morningers]**, a week-long Pledge of Early Mornings Jogging with an exciting raffle.
+  * In my position for 2 years, we teach a handful of new recruits to organize a school-wide event. 
+  * Experience in executing self-taught skills, such as Visual Design, Branding and Marketing. 
+* **Marketing Team Member of 2016 [SITCON]**, a Conference held by Students to discuss IT. 
+* **TA for Class of 2016 NTU x Presentation**, a Class focused on Presentational skills conducted by Prof. Yeh.
+
+## Transferable Skills
+* Language: English (Native, grew up in the States), Mandarin (Native), Korean (Basic)
+* Software: Programming (C++, Python, OpenCV), Numerical Analysis (R), IDE (Linux), Video Editing (Pr, AE), Visual Design (PS, Ai, InD), MS Excel & PowerPoint
+
+[Morningers]: https://www.facebook.com/morningers/
+[SITCON]: http://sitcon.org/2016/
+[NTU Presentation]: https://www.facebook.com/NTUxPresentation/
